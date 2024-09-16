@@ -1,6 +1,5 @@
 Here's the **README.md** in English:
 
-````markdown
 # TableJS
 
 **TableJS** is a simple and lightweight library for generating tables from provided data. It allows you to easily define columns and build tables with custom rows.
@@ -12,7 +11,6 @@ You can install TableJS using npm:
 ```bash
 npm install tablejs
 ```
-````
 
 or with yarn:
 
