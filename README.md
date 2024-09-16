@@ -99,8 +99,7 @@ const tableView = exampleTable(rows);
 
 ### Arguments
 
-- **`columns`** (object): Defines the structure of the table where the keys are the column identifiers and the values are the column headers.
-- **`displayColumnCount`** (number): Specifies the number of columns to display in the table.
+- **`header`** (object): Defines the structure of the table where the keys are the column identifiers and the values are the column headers.
 
 ## Support
 
