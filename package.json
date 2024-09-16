@@ -1,10 +1,10 @@
 {
-  "name": "@diyor_umarkulov/tablejs",
+  "name": "tablerjs",
   "version": "1.0.0",
   "description": "Utils and tools to make tables",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "tsc && npm version patch && npm publish"
   },
   "repository": {
     "type": "git",

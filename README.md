@@ -1,21 +1,21 @@
 Here's the **README.md** in English:
 
-# TableJS
+# TablerJS
 
-**TableJS** is a simple and lightweight library for generating tables from provided data. It allows you to easily define columns and build tables with custom rows.
+**TablerJS** is a simple and lightweight library for generating tables from provided data. It allows you to easily define columns and build tables with custom rows.
 
 ## Installation
 
-You can install TableJS using npm:
+You can install TablerJS using npm:
 
 ```bash
-npm install tablejs
+npm install tablerjs
 ```
 
 or with yarn:
 
 ```bash
-yarn add tablejs
+yarn add tablerjs
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ To create a table, you first need to define the columns by passing an object wit
 Example:
 
 ```javascript
-import { table } from "tablejs";
+import { table } from "tablerjs";
 
 export const exampleTable = table(
   {
@@ -64,7 +64,7 @@ const tableView = exampleTable(rows);
 ### Full Example
 
 ```javascript
-import { table } from "tablejs";
+import { table } from "tablerjs";
 
 // Define a table with two columns
 export const exampleTable = table(
