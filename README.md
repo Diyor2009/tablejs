@@ -61,10 +61,6 @@ const rows = [
 const tableView = exampleTable(rows);
 ```
 
-### Result
-
-<img src="assets/screenshots/table_result.png">
-
 ### Full Example
 
 ```javascript
@@ -96,6 +92,10 @@ const tableView = exampleTable(rows);
 
 // tableView now contains the table structure with the given data
 ```
+
+### Result
+
+<img src="assets/screenshots/table_result.png">
 
 ### Arguments
 
