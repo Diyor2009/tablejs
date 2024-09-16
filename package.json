@@ -1,5 +1,5 @@
 {
-  "name": "tablejs",
+  "name": "@diyor_umarkulov/tablejs",
   "version": "1.0.0",
   "description": "Utils and tools to make tables",
   "main": "index.js",
