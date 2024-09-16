@@ -42,7 +42,7 @@ export const exampleTable = table(
 
 To populate a table with data, pass an array of strings to a previously defined table function. Each string must correspond to the keys of certain columns. If any column is not filled and you use TypeScript, it will throw an error and throw a type error.
 
-<img src="assets/screenshots/type_error1.png">
+<img src="assets/screenshots/type_error.png">
 
 Example:
 
@@ -63,7 +63,7 @@ const tableView = exampleTable(rows);
 
 ### Result
 
-<img src="assets/screenshots/table_result1.png">
+<img src="assets/screenshots/table_result.png">
 
 ### Full Example
 
