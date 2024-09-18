@@ -32,7 +32,6 @@ export const exampleTable = table(
     col1: "Column 1",
     col2: "Lorem ipsum",
   },
-  4 // Number of columns to display
 );
 ```
 
