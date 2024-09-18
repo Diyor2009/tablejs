@@ -1,6 +1,6 @@
 {
   "name": "tablerjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utils and tools to make tables",
   "main": "index.js",
   "scripts": {
